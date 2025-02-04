@@ -36,7 +36,7 @@ git clone https://github.com/Knowledge-JO/HNG-stage-1-number-classification-api.
 ### 2. Navigate to the Project Directory
 
 ```sh
-cd your-repo-name
+cd HNG-stage-1-number-classification-api
 ```
 
 ### 3. Install Dependencies
