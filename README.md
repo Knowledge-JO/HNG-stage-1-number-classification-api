@@ -14,7 +14,7 @@ This is a simple Node.js API built with Express that classifies numbers by check
 ## Local and Public URLs
 
 - **Local:** `http://localhost:3000`
-- **Public (if deployed):** `https://your-deployment-url.com`
+- **Public:** `https://number-classification-api-fut3.onrender.com`
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ This is a simple Node.js API built with Express that classifies numbers by check
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Knowledge-JO/HNG-stage-1-number-classification-api.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -80,7 +80,7 @@ GET /api/classify-number?number=28
 
 ### 400 Bad request
 
-If a request fails or invalid query param passed
+If invalid query param is passed
 
 ```json
 {
