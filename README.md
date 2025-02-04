@@ -65,7 +65,7 @@ The server will start on `http://localhost:3000`
 GET /api/classify-number?number=28
 ```
 
-#### Response:
+#### 200 Response:
 
 ```json
 {
